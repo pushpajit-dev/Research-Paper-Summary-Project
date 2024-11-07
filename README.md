@@ -122,3 +122,18 @@ ML can automate the process of reviewing literature, extracting key findings, co
 Iteration and prompting are key to improving machine learning systems, particularly in complex research projects where precision, creativity, and adaptability are essential. Iteration allows models to improve over time through training and feedback, while prompting provides the control needed to guide models toward specific tasks or goals. Together, they create a robust system for automating and enhancing tasks like summarizing research papers, generating new ideas, solving complex problems, all of which accelerate the pace and depth of research.
 
 ## **References**
+
+    Géron, A. (2019). Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems (2nd ed.). O'Reilly Media.
+    Raschka, S., & Mirjalili, V. (2019). Python Machine Learning (3rd ed.). Packt Publishing.
+    Hastie, T., Tibshirani, R., & Friedman, J. (2009). The Elements of Statistical Learning: Data Mining, Inference, and Prediction (2nd ed.). Springer.
+    Sutton, R. S., & Barto, A. G. (2018). Reinforcement Learning: An Introduction (2nd ed.). MIT Press.
+    Foster, D. (2019). Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play. O'Reilly Media.
+    Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. MIT Press.
+    Goyal, P., Pandey, S., & Jain, K. (2018). Deep Learning for Natural Language Processing. Apress.
+    Tunstall, L., von Werra, L., & Wolf, T. (2022). Natural Language Processing with Transformers: Building Language Applications with Hugging Face. O'Reilly Media.
+    Marz, N., & Warren, J. (2015). Big Data: Principles and Best Practices of Scalable Real-Time Data Systems. Manning Publications.
+    Leskovec, J., Rajaraman, A., & Ullman, J. D. (2014). Mining of Massive Datasets (2nd ed.). Cambridge University Press. (Available online: http://www.mmds.org/)
+
+              
+## **Feedback**
+[This is Official feedback from Skillible.io](https://github.com/pushpajit-dev/Research-Paper-Summary-Project/blob/429a52e0b69722fc138b980fb70c69f55ea75e57/pp.PNG)
