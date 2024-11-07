@@ -35,6 +35,10 @@
     Website: ResearchGate
     - Google Scholar: A freely accessible web search engine that indexes the full text or metadata of scholarly literature across an array of publishing formats and disciplines.
     Website: Google Scholar
+## **Introduction**
+Hello, I have written this Article based on How Social Media or Artifitial Life can be dangerous and Harmful for this Generation, How could it impact on Mental Health too?, For a pattern I took a help from Online resource library which was provided. But, Finidng line by line descriptions, points, and research collections, secondary data it's very challenging, and relying on Primary data, nowadays which can be a huge flaw for the research development and processes, as an aspirant of Defence strategic studies I have build diffrent perspective on this impact, So I have used Huge data sets, Big data models, with some updated tools, Extracted information and reports. By using these We have a summery, but it has many limitation, so to verify it correctly I will go through trained models with academic findings and ask them to find differences for current discoveries. The result is quite impressive. I have written down everything related to my Summery. I hope you will understand this project well.
+## **Assignment Link**
+[Open this Summery Assignment or Read it Online](https://github.com/pushpajit-dev/Research-Paper-Summary-Project/blob/351b0c6e4b5679f89779c69f0895f18b700ad16b/Submission_Assignment.docx)
 > **Result:**
 ## **Initial Prompt**
 ### **Description (50 words max):** 
@@ -106,5 +110,15 @@ As mentioned, models like GANs and Variational Autoencoders (VAEs) can generate 
 ML models can help researchers explore different hypotheses or solutions more efficiently. For example, in a drug discovery project, a model could propose various chemical compounds or molecular structures that might have the desired therapeutic effect.
 ### **Automated Literature Review:**
 ML can automate the process of reviewing literature, extracting key findings, comparing different research approaches, and synthesizing them into conclusions without the need for manual intervention.
+[!NOTE]
 # **Iterations in Machine Learning**
->
+> ### Iteration refers to the process of repeatedly refining and improving models or algorithms based on feedback, new data, or better strategies. It’s a fundamental part of both training machine learning models and refining AI systems for specific tasks. Iteration helps enhance performance by continuously improving the results in tasks like research summarization, content generation, and decision-making. Here's how iteration helps:
+### Prompting in Machine Learning (for NLP and Content Generation) 
+### Fine-Tuning Knowledge
+### Iterative Prompting to Refine Outputs
+### Prompt Chaining
+
+## **Conclusion**
+Iteration and prompting are key to improving machine learning systems, particularly in complex research projects where precision, creativity, and adaptability are essential. Iteration allows models to improve over time through training and feedback, while prompting provides the control needed to guide models toward specific tasks or goals. Together, they create a robust system for automating and enhancing tasks like summarizing research papers, generating new ideas, solving complex problems, all of which accelerate the pace and depth of research.
+
+## **References**
